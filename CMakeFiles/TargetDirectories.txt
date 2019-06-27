@@ -1,0 +1,3 @@
+/home/austin/my-recognition/CMakeFiles/rebuild_cache.dir
+/home/austin/my-recognition/CMakeFiles/my-recognition.dir
+/home/austin/my-recognition/CMakeFiles/edit_cache.dir
